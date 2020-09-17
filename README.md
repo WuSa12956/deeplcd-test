@@ -21,7 +21,7 @@ The steps of running the project have been described in detail in the article.
 It is important to emphasize the issues concerning the download and path configuration of the CALC training model.
 This is a very important issue. If an error occurs, our system will not work.
 
-## 2. download and path configuration of the CALC training model
+## 2. Download and path configuration of the CALC training model
 
 1. There is a file named "get_model.sh" in our code folder, please run this file in the terminal in order to download the two training model files needed in Caffe.
 
