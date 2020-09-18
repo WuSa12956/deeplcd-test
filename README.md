@@ -1,4 +1,6 @@
-# This document contains the details of the dependencies and steps needed to run the project.
+# DeepLCD-test
+
+This document contains the details of the dependencies and steps needed to run the project.
 
 ## 1. Dependencies required to install to run this project
 ### a. About LSD-SLAM
