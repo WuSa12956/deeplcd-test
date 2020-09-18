@@ -38,7 +38,6 @@ This is a significant problem. If an error occurs, our system will not work.
 4. After changing the value of the cafferoot parameter, please recompile our project and run it again.
 
 ### Tips
-Overall, the experiment is successful. However, after many experiments, we find that the algorithm is still not very stable. 
-Two or three times out of ten, the results are not what we expected. 
+Overall, the experiment is successful. However, after many experiments, two or three times out of ten, the results are not what we expected. 
 On the other hand, since we chose a real-time dataset for testing, LSD-SLAM sometimes loses frames causing the experiment to fail. 
 If several of the above situations occur, our suggestion is to re-run the algorithm.
